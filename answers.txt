@@ -17,3 +17,8 @@ Answer: Merging takes the changes from one branch and combines
 them into another branch. Rebasing moves the commits from one branch on top of another. 
 Instead of merging the branches, it rewrites the history by 
 applying the commits from the feature branch onto the tip of the main branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to gain hands on experience with big data that I can apply in real life scenarios and job interviews! 
+I hope to improve my python skills, groupwork skills, and time management skills aswell. 
