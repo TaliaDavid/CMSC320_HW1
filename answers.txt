@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: It is a good platform for lots of students to submit code and makes it easier for TAs to grade.
