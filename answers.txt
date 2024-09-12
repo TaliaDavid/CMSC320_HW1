@@ -1,3 +1,13 @@
 Q1: Why might be consider using git?
 
 Answer: It is a good platform for lots of students to submit code and makes it easier for TAs to grade.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science is making a real difference in cancer research,
+helping scientists sift through huge amounts of medical and biological 
+data to spot trends, make predictions, and even discover new treatment options.
+For example, machine learning is being used to predict how patients might 
+respond to treatments like chemotherapy or immunotherapy, helping doctors make more 
+informed decisions.
+
