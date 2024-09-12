@@ -11,3 +11,9 @@ For example, machine learning is being used to predict how patients might
 respond to treatments like chemotherapy or immunotherapy, helping doctors make more 
 informed decisions.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging takes the changes from one branch and combines 
+them into another branch. Rebasing moves the commits from one branch on top of another. 
+Instead of merging the branches, it rewrites the history by 
+applying the commits from the feature branch onto the tip of the main branch.
